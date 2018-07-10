@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem 'omniauth-kakao', :git => 'https://github.com/hcn1519/omniauth-kakao'
 gem 'omniauth-facebook'
 gem 'aws-sdk-s3'
 # 환경변수 관리
